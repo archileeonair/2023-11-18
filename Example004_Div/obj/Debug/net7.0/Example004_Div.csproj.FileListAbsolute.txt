@@ -1,0 +1,4 @@
+/Users/arturtahautdinov/Desktop/Попытка5/Example004_Div/obj/Debug/net7.0/Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturtahautdinov/Desktop/Попытка5/Example004_Div/obj/Debug/net7.0/Example004_Div.AssemblyInfoInputs.cache
+/Users/arturtahautdinov/Desktop/Попытка5/Example004_Div/obj/Debug/net7.0/Example004_Div.AssemblyInfo.cs
+/Users/arturtahautdinov/Desktop/Попытка5/Example004_Div/obj/Debug/net7.0/Example004_Div.csproj.CoreCompileInputs.cache

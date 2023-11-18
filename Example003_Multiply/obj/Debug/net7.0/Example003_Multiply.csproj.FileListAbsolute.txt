@@ -1,0 +1,14 @@
+/Users/arturtahautdinov/Desktop/Попытка5/Example003_Multiply/bin/Debug/net7.0/Example003_Multiply
+/Users/arturtahautdinov/Desktop/Попытка5/Example003_Multiply/bin/Debug/net7.0/Example003_Multiply.deps.json
+/Users/arturtahautdinov/Desktop/Попытка5/Example003_Multiply/bin/Debug/net7.0/Example003_Multiply.runtimeconfig.json
+/Users/arturtahautdinov/Desktop/Попытка5/Example003_Multiply/bin/Debug/net7.0/Example003_Multiply.dll
+/Users/arturtahautdinov/Desktop/Попытка5/Example003_Multiply/bin/Debug/net7.0/Example003_Multiply.pdb
+/Users/arturtahautdinov/Desktop/Попытка5/Example003_Multiply/obj/Debug/net7.0/Example003_Multiply.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturtahautdinov/Desktop/Попытка5/Example003_Multiply/obj/Debug/net7.0/Example003_Multiply.AssemblyInfoInputs.cache
+/Users/arturtahautdinov/Desktop/Попытка5/Example003_Multiply/obj/Debug/net7.0/Example003_Multiply.AssemblyInfo.cs
+/Users/arturtahautdinov/Desktop/Попытка5/Example003_Multiply/obj/Debug/net7.0/Example003_Multiply.csproj.CoreCompileInputs.cache
+/Users/arturtahautdinov/Desktop/Попытка5/Example003_Multiply/obj/Debug/net7.0/Example003_Multiply.dll
+/Users/arturtahautdinov/Desktop/Попытка5/Example003_Multiply/obj/Debug/net7.0/refint/Example003_Multiply.dll
+/Users/arturtahautdinov/Desktop/Попытка5/Example003_Multiply/obj/Debug/net7.0/Example003_Multiply.pdb
+/Users/arturtahautdinov/Desktop/Попытка5/Example003_Multiply/obj/Debug/net7.0/Example003_Multiply.genruntimeconfig.cache
+/Users/arturtahautdinov/Desktop/Попытка5/Example003_Multiply/obj/Debug/net7.0/ref/Example003_Multiply.dll
