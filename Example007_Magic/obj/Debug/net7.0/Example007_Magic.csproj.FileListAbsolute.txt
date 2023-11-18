@@ -1,0 +1,14 @@
+/Users/arturtahautdinov/Desktop/Попытка5/Example007_Magic/bin/Debug/net7.0/Example007_Magic
+/Users/arturtahautdinov/Desktop/Попытка5/Example007_Magic/bin/Debug/net7.0/Example007_Magic.deps.json
+/Users/arturtahautdinov/Desktop/Попытка5/Example007_Magic/bin/Debug/net7.0/Example007_Magic.runtimeconfig.json
+/Users/arturtahautdinov/Desktop/Попытка5/Example007_Magic/bin/Debug/net7.0/Example007_Magic.dll
+/Users/arturtahautdinov/Desktop/Попытка5/Example007_Magic/bin/Debug/net7.0/Example007_Magic.pdb
+/Users/arturtahautdinov/Desktop/Попытка5/Example007_Magic/obj/Debug/net7.0/Example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturtahautdinov/Desktop/Попытка5/Example007_Magic/obj/Debug/net7.0/Example007_Magic.AssemblyInfoInputs.cache
+/Users/arturtahautdinov/Desktop/Попытка5/Example007_Magic/obj/Debug/net7.0/Example007_Magic.AssemblyInfo.cs
+/Users/arturtahautdinov/Desktop/Попытка5/Example007_Magic/obj/Debug/net7.0/Example007_Magic.csproj.CoreCompileInputs.cache
+/Users/arturtahautdinov/Desktop/Попытка5/Example007_Magic/obj/Debug/net7.0/Example007_Magic.dll
+/Users/arturtahautdinov/Desktop/Попытка5/Example007_Magic/obj/Debug/net7.0/refint/Example007_Magic.dll
+/Users/arturtahautdinov/Desktop/Попытка5/Example007_Magic/obj/Debug/net7.0/Example007_Magic.pdb
+/Users/arturtahautdinov/Desktop/Попытка5/Example007_Magic/obj/Debug/net7.0/Example007_Magic.genruntimeconfig.cache
+/Users/arturtahautdinov/Desktop/Попытка5/Example007_Magic/obj/Debug/net7.0/ref/Example007_Magic.dll
