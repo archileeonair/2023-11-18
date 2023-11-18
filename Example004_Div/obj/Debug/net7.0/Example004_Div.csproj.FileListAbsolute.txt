@@ -2,3 +2,13 @@
 /Users/arturtahautdinov/Desktop/Попытка5/Example004_Div/obj/Debug/net7.0/Example004_Div.AssemblyInfoInputs.cache
 /Users/arturtahautdinov/Desktop/Попытка5/Example004_Div/obj/Debug/net7.0/Example004_Div.AssemblyInfo.cs
 /Users/arturtahautdinov/Desktop/Попытка5/Example004_Div/obj/Debug/net7.0/Example004_Div.csproj.CoreCompileInputs.cache
+/Users/arturtahautdinov/Desktop/Попытка5/Example004_Div/bin/Debug/net7.0/Example004_Div
+/Users/arturtahautdinov/Desktop/Попытка5/Example004_Div/bin/Debug/net7.0/Example004_Div.deps.json
+/Users/arturtahautdinov/Desktop/Попытка5/Example004_Div/bin/Debug/net7.0/Example004_Div.runtimeconfig.json
+/Users/arturtahautdinov/Desktop/Попытка5/Example004_Div/bin/Debug/net7.0/Example004_Div.dll
+/Users/arturtahautdinov/Desktop/Попытка5/Example004_Div/bin/Debug/net7.0/Example004_Div.pdb
+/Users/arturtahautdinov/Desktop/Попытка5/Example004_Div/obj/Debug/net7.0/Example004_Div.dll
+/Users/arturtahautdinov/Desktop/Попытка5/Example004_Div/obj/Debug/net7.0/refint/Example004_Div.dll
+/Users/arturtahautdinov/Desktop/Попытка5/Example004_Div/obj/Debug/net7.0/Example004_Div.pdb
+/Users/arturtahautdinov/Desktop/Попытка5/Example004_Div/obj/Debug/net7.0/Example004_Div.genruntimeconfig.cache
+/Users/arturtahautdinov/Desktop/Попытка5/Example004_Div/obj/Debug/net7.0/ref/Example004_Div.dll
