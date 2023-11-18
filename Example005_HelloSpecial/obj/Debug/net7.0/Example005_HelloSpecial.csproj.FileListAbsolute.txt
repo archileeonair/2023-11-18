@@ -1,0 +1,14 @@
+/Users/arturtahautdinov/Desktop/Попытка5/Example005_HelloSpecial/obj/Debug/net7.0/Example005_HelloSpecial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturtahautdinov/Desktop/Попытка5/Example005_HelloSpecial/obj/Debug/net7.0/Example005_HelloSpecial.AssemblyInfoInputs.cache
+/Users/arturtahautdinov/Desktop/Попытка5/Example005_HelloSpecial/obj/Debug/net7.0/Example005_HelloSpecial.AssemblyInfo.cs
+/Users/arturtahautdinov/Desktop/Попытка5/Example005_HelloSpecial/obj/Debug/net7.0/Example005_HelloSpecial.csproj.CoreCompileInputs.cache
+/Users/arturtahautdinov/Desktop/Попытка5/Example005_HelloSpecial/bin/Debug/net7.0/Example005_HelloSpecial
+/Users/arturtahautdinov/Desktop/Попытка5/Example005_HelloSpecial/bin/Debug/net7.0/Example005_HelloSpecial.deps.json
+/Users/arturtahautdinov/Desktop/Попытка5/Example005_HelloSpecial/bin/Debug/net7.0/Example005_HelloSpecial.runtimeconfig.json
+/Users/arturtahautdinov/Desktop/Попытка5/Example005_HelloSpecial/bin/Debug/net7.0/Example005_HelloSpecial.dll
+/Users/arturtahautdinov/Desktop/Попытка5/Example005_HelloSpecial/bin/Debug/net7.0/Example005_HelloSpecial.pdb
+/Users/arturtahautdinov/Desktop/Попытка5/Example005_HelloSpecial/obj/Debug/net7.0/Example005_HelloSpecial.dll
+/Users/arturtahautdinov/Desktop/Попытка5/Example005_HelloSpecial/obj/Debug/net7.0/refint/Example005_HelloSpecial.dll
+/Users/arturtahautdinov/Desktop/Попытка5/Example005_HelloSpecial/obj/Debug/net7.0/Example005_HelloSpecial.pdb
+/Users/arturtahautdinov/Desktop/Попытка5/Example005_HelloSpecial/obj/Debug/net7.0/Example005_HelloSpecial.genruntimeconfig.cache
+/Users/arturtahautdinov/Desktop/Попытка5/Example005_HelloSpecial/obj/Debug/net7.0/ref/Example005_HelloSpecial.dll
