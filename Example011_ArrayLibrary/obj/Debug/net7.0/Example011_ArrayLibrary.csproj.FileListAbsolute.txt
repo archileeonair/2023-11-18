@@ -1,0 +1,14 @@
+/Users/arturtahautdinov/Desktop/Попытка5/Example011_ArrayLibrary/obj/Debug/net7.0/Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturtahautdinov/Desktop/Попытка5/Example011_ArrayLibrary/obj/Debug/net7.0/Example011_ArrayLibrary.AssemblyInfoInputs.cache
+/Users/arturtahautdinov/Desktop/Попытка5/Example011_ArrayLibrary/obj/Debug/net7.0/Example011_ArrayLibrary.AssemblyInfo.cs
+/Users/arturtahautdinov/Desktop/Попытка5/Example011_ArrayLibrary/obj/Debug/net7.0/Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+/Users/arturtahautdinov/Desktop/Попытка5/Example011_ArrayLibrary/bin/Debug/net7.0/Example011_ArrayLibrary
+/Users/arturtahautdinov/Desktop/Попытка5/Example011_ArrayLibrary/bin/Debug/net7.0/Example011_ArrayLibrary.deps.json
+/Users/arturtahautdinov/Desktop/Попытка5/Example011_ArrayLibrary/bin/Debug/net7.0/Example011_ArrayLibrary.runtimeconfig.json
+/Users/arturtahautdinov/Desktop/Попытка5/Example011_ArrayLibrary/bin/Debug/net7.0/Example011_ArrayLibrary.dll
+/Users/arturtahautdinov/Desktop/Попытка5/Example011_ArrayLibrary/bin/Debug/net7.0/Example011_ArrayLibrary.pdb
+/Users/arturtahautdinov/Desktop/Попытка5/Example011_ArrayLibrary/obj/Debug/net7.0/Example011_ArrayLibrary.dll
+/Users/arturtahautdinov/Desktop/Попытка5/Example011_ArrayLibrary/obj/Debug/net7.0/refint/Example011_ArrayLibrary.dll
+/Users/arturtahautdinov/Desktop/Попытка5/Example011_ArrayLibrary/obj/Debug/net7.0/Example011_ArrayLibrary.pdb
+/Users/arturtahautdinov/Desktop/Попытка5/Example011_ArrayLibrary/obj/Debug/net7.0/Example011_ArrayLibrary.genruntimeconfig.cache
+/Users/arturtahautdinov/Desktop/Попытка5/Example011_ArrayLibrary/obj/Debug/net7.0/ref/Example011_ArrayLibrary.dll
